@@ -1,0 +1,8 @@
+{
+    "name": "My Project",
+    "dockerFile": "Dockerfile",
+    "forwardPorts": [
+        3306
+    ]
+}
+
